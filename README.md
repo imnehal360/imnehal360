@@ -124,14 +124,3 @@ Machine learning-based system for predicting diseases with an interactive chatbo
 - Scalable System Design  
 
 ---
-
-## Contact
-
-LinkedIn  
-https://linkedin.com/in/nehal  
-
-Email  
-imnehal360@gmail.com  
-
-GitHub  
-https://github.com/nehal  
