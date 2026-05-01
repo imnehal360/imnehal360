@@ -29,7 +29,7 @@
 const nehal = {
   name      : "Muhammad Nehal",
   role      : "Full-Stack Developer & AI Enthusiast",
-  location  : "IIIT Manipur, India 🇮🇳",
+  location  : "IIIT Manipur, India",
   stack     : ["React", "Node.js", "Express", "MongoDB"],
   interests : ["AI/ML", "LLMs", "Open Source", "System Design"],
   currentFocus : "Building AI-driven full-stack applications",
