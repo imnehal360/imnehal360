@@ -33,7 +33,7 @@ const nehal = {
   stack     : ["React", "Node.js", "Express", "MongoDB"],
   interests : ["AI/ML", "LLMs", "Open Source", "System Design"],
   currentFocus : "Building AI-driven full-stack applications",
-  available : true  // open to collaborations & internships
+  available : true
 };
 ```
 
@@ -109,7 +109,7 @@ const nehal = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imnehal360&style=flat-square&color=00ffa3&label=Profile+Views" />
   <br/><br/>
-  <sub>⚡ Built with curiosity. Fueled by chai. Always deploying.</sub>
+  <sub>⚡ Built with curiosity. Fueled by coffee. Always deploying.</sub>
 </div>
 
 ## About
